@@ -1,6 +1,10 @@
 <template>
   <Header></Header>
 
+  <main>
+    <ServiceSection></ServiceSection>
+  </main>
+
   <div class="accordion" id="accordionExample">
     <div class="accordion-item">
       <h2 class="accordion-header" id="headingOne">
@@ -100,10 +104,12 @@
 
 <script>
 import Header from '@/components/Header.vue';
+import ServiceSection from '@/components/ServiceSection.vue';
 
 export default {
   components: {
     Header,
+    ServiceSection,
   },
 };
 </script>
