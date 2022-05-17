@@ -1,4 +1,6 @@
 <template>
+  <Header></Header>
+
   <div class="accordion" id="accordionExample">
     <div class="accordion-item">
       <h2 class="accordion-header" id="headingOne">
@@ -97,7 +99,13 @@
 </template>
 
 <script>
-export default {};
+import Header from '@/components/Header.vue';
+
+export default {
+  components: {
+    Header,
+  },
+};
 </script>
 
 <style lang="scss" scoped></style>

@@ -1,0 +1,36 @@
+.fixedBottomBtn {
+  &.fixed-bottom {
+    left: auto;
+  }
+
+  &__img {
+    background-image: url('@/assets/img/btn2.png');
+    background-size: cover;
+    background-position: center center;
+    width: 140px;
+    height: 153px;
+    transition: all 0.5s ease;
+
+    &:hover {
+      background-image: url('@/assets/img/btn.png');
+    }
+  }
+}
+
+.tooltip-inner {
+  padding: 0.5rem 1.5rem;
+
+  color: black;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+
+  background-color: white;
+
+  border-radius: 0.25rem;
+  border: 1px black solid;
+}
+
+.tooltip.show {
+  opacity: 1;
+}
