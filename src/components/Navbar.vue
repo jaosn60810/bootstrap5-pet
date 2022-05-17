@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 py-lg-4">
     <div class="container">
       <a class="navbar-brand" href="#">
-        <img src="../assets/img/logo.png" height="40" alt="" />
+        <img src="../assets/img/logo.png" height="40" alt="撿到寶" />
       </a>
       <button
         class="navbar-toggler"
