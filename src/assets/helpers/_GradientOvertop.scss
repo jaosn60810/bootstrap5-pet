@@ -1,0 +1,28 @@
+// 背景漸層黑底
+.gradientOvertop::before {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 0%;
+  width: 100%;
+  bottom: 0;
+  transition: height 0.5s ease-out;
+  background: linear-gradient(to bottom, transparent 0%, black 300%);
+  pointer-events: none;
+}
+.gradientOvertop:hover::before {
+  height: 100%;
+}
+
+// 背景漸層黑底文字
+.gradientOvertop {
+  > .gradientOvertop__text {
+    display: none;
+  }
+}
+
+.gradientOvertop:hover {
+  > .gradientOvertop__text {
+    display: block;
+  }
+}
