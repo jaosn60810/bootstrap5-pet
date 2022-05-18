@@ -9,6 +9,7 @@
   transition: height 0.5s ease-out;
   background: linear-gradient(to bottom, transparent 0%, black 300%);
   pointer-events: none;
+  border-radius: 2rem;
 }
 .gradientOvertop:hover::before {
   height: 100%;
