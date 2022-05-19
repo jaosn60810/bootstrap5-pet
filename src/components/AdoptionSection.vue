@@ -9,8 +9,10 @@
     </h2>
 
     <div class="container mb-5 mb-lg-7">
-      <div class="row row-cols-1 row-cols-lg-3 justify-content-center gy-3">
-        <div class="col">
+      <ul
+        class="row row-cols-1 row-cols-lg-3 justify-content-center gy-3 list-unstyled"
+      >
+        <li class="col">
           <div class="card rounded-10 overflow-hidden">
             <div class="position-relative mb-5">
               <img
@@ -32,15 +34,16 @@
               </p>
             </div>
 
-            <a
+            <router-link
               href="#"
               class="text-dark text-decoration-none hoverTextPrimary fontKalam d-block py-3 text-center"
-              >More</a
+              to="/adoption-area"
+              >More</router-link
             >
           </div>
-        </div>
+        </li>
 
-        <div class="col">
+        <li class="col">
           <div class="card rounded-10 overflow-hidden">
             <div class="position-relative mb-5">
               <img
@@ -62,15 +65,16 @@
               </p>
             </div>
 
-            <a
+            <router-link
               href="#"
               class="text-dark text-decoration-none hoverTextPrimary fontKalam d-block py-3 text-center"
-              >More</a
+              to="/adoption-area"
+              >More</router-link
             >
           </div>
-        </div>
+        </li>
 
-        <div class="col">
+        <li class="col">
           <div class="card rounded-10 overflow-hidden">
             <div class="position-relative mb-5">
               <img
@@ -92,20 +96,21 @@
               </p>
             </div>
 
-            <a
+            <router-link
               href="#"
               class="text-dark text-decoration-none hoverTextPrimary fontKalam d-block py-3 text-center"
-              >More</a
+              to="/adoption-area"
+              >More</router-link
             >
           </div>
-        </div>
-      </div>
+        </li>
+      </ul>
     </div>
 
     <div class="d-flex justify-content-center">
       <router-link
         class="btn btn-outline-primary text-dark border-dark hoverBorderPrimary py-2 px-5 rounded-pill"
-        to="/services"
+        to="/adoption-area"
         >看看更多浪浪</router-link
       >
     </div>

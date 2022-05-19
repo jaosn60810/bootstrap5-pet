@@ -21,15 +21,19 @@
             <router-link class="nav-link" to="/services">服務介紹</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/1">設計作品</router-link>
+            <router-link class="nav-link" to="/design-works"
+              >設計作品</router-link
+            >
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/2">領養專區</router-link>
+            <router-link class="nav-link" to="/adoption-area"
+              >領養專區</router-link
+            >
           </li>
           <li class="nav-item">
             <router-link
               class="btn btn-primary py-2 px-5 rounded-pill"
-              to="/services"
+              to="/order"
               >毛孩似顏繪</router-link
             >
           </li>
