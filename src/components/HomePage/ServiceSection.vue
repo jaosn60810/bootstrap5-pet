@@ -1,5 +1,5 @@
 <template>
-  <section class="py-6 py-lg-11">
+  <section class="pb-6 pb-lg-11">
     <div class="container">
       <div
         class="row row-cols-1 row-cols-lg-2 justify-content-center gx-lg-7 flex-column-reverse flex-lg-row"

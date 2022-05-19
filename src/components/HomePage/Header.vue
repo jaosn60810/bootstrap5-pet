@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class="pb-6 pb-lg-11">
     <div class="position-relative">
       <img
         src="@/assets/img/home.png"

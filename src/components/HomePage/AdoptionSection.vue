@@ -1,5 +1,5 @@
 <template>
-  <section class="py-6 py-lg-11">
+  <section class="pb-6 pb-lg-11">
     <div class="d-flex justify-content-center mb-3 mb-lg-4">
       <img src="@/assets/img/title02.png" alt="領養專區" />
     </div>
