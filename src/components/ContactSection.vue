@@ -41,7 +41,7 @@
 
               <router-link
                 class="btn btn-outline-primary text-dark fs-5 border-dark hoverBorderPrimary py-2 px-7 rounded-pill"
-                to="/order"
+                to="/adoption-area"
                 >領養專區</router-link
               >
             </div>
