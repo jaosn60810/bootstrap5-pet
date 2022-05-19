@@ -32,7 +32,7 @@
           </li>
           <li class="nav-item">
             <router-link
-              class="btn btn-primary py-2 px-5 rounded-pill"
+              class="btn btn-primary py-2 px-7 rounded-pill"
               to="/order"
               >毛孩似顏繪</router-link
             >

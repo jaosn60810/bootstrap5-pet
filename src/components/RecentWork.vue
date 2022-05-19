@@ -82,12 +82,12 @@
 
     <div class="d-flex justify-content-center">
       <router-link
-        class="btn btn-outline-primary text-dark border-dark hoverBorderPrimary py-2 px-5 rounded-pill me-4"
+        class="btn btn-outline-primary text-dark fs-5 border-dark hoverBorderPrimary py-2 px-7 rounded-pill me-4"
         to="/design-works"
         >查看更多作品</router-link
       >
       <router-link
-        class="btn btn-primary py-2 px-5 rounded-pill d-none d-lg-block"
+        class="btn btn-primary py-2 px-7 fs-5 rounded-pill d-none d-lg-block"
         to="/order"
         >客製毛孩似顏繪</router-link
       >

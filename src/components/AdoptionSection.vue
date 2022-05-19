@@ -109,7 +109,7 @@
 
     <div class="d-flex justify-content-center">
       <router-link
-        class="btn btn-outline-primary text-dark border-dark hoverBorderPrimary py-2 px-5 rounded-pill"
+        class="btn btn-outline-primary text-dark fs-5 border-dark hoverBorderPrimary py-2 px-7 rounded-pill"
         to="/adoption-area"
         >看看更多浪浪</router-link
       >
