@@ -1,0 +1,19 @@
+.hoverBorderPrimary:hover {
+  transition: all 0.5s ease-out;
+  border-color: $primary !important;
+}
+
+.hoverTextPrimary:hover {
+  transition: all 0.5s ease-out;
+  color: $primary !important;
+}
+
+.hoverImgShow:hover {
+  transition: all 0.5s ease-out;
+  opacity: 1 !important;
+}
+
+.hoverImgHide:hover {
+  transition: all 0.5s ease-out;
+  opacity: 0 !important;
+}
