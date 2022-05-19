@@ -6,13 +6,16 @@
     <RecentWork></RecentWork>
     <AdoptionSection></AdoptionSection>
   </main>
+
+  <FixedBtn></FixedBtn>
 </template>
 
 <script>
-import Header from '@/components/Header.vue';
-import ServiceSection from '@/components/ServiceSection.vue';
-import RecentWork from '@/components/RecentWork.vue';
-import AdoptionSection from '@/components/AdoptionSection.vue';
+import Header from '@/components/HomePage/Header.vue';
+import ServiceSection from '@/components/HomePage/ServiceSection.vue';
+import RecentWork from '@/components/HomePage/RecentWork.vue';
+import AdoptionSection from '@/components/HomePage/AdoptionSection.vue';
+import FixedBtn from '@/components/HomePage/FixedBtn.vue';
 
 export default {
   components: {
@@ -20,6 +23,7 @@ export default {
     ServiceSection,
     RecentWork,
     AdoptionSection,
+    FixedBtn,
   },
 };
 </script>

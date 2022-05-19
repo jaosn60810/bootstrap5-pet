@@ -19,18 +19,10 @@
       </h2>
     </div>
   </header>
-
-  <FixedBtn></FixedBtn>
 </template>
 
 <script>
-import FixedBtn from '@/components/FixedBtn.vue';
-
-export default {
-  components: {
-    FixedBtn,
-  },
-};
+export default {};
 </script>
 
 <style lang="scss" scoped></style>

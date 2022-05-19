@@ -16,12 +16,12 @@
           <div class="card rounded-10 overflow-hidden">
             <div class="position-relative mb-5">
               <img
-                src="../assets/img/dog01.png"
+                src="@/assets/img/dog01.png"
                 class="opacity-100 hoverImgHide img-fluid w-100"
                 alt="dog01"
               />
               <img
-                src="../assets/img/dog01-hover-1.png"
+                src="@/assets/img/dog01-hover-1.png"
                 class="opacity-0 position-absolute top-0 start-0 end-0 hoverImgShow img-fluid w-100"
                 alt="dog01-hover"
               />
@@ -47,12 +47,12 @@
           <div class="card rounded-10 overflow-hidden">
             <div class="position-relative mb-5">
               <img
-                src="../assets/img/04.png"
+                src="@/assets/img/04.png"
                 class="opacity-100 hoverImgHide img-fluid w-100"
                 alt="dog04"
               />
               <img
-                src="../assets/img/dog01-hover.png"
+                src="@/assets/img/dog01-hover.png"
                 class="opacity-0 position-absolute top-0 start-0 end-0 hoverImgShow img-fluid w-100"
                 alt="dog01-hover"
               />
@@ -78,12 +78,12 @@
           <div class="card rounded-10 overflow-hidden">
             <div class="position-relative mb-5">
               <img
-                src="../assets/img/08.png"
+                src="@/assets/img/08.png"
                 class="opacity-100 hoverImgHide img-fluid w-100"
                 alt="dog08"
               />
               <img
-                src="../assets/img/dog01-hover-2.png"
+                src="@/assets/img/dog01-hover-2.png"
                 class="opacity-0 position-absolute top-0 start-0 end-0 hoverImgShow img-fluid w-100"
                 alt="dog01-hover"
               />
