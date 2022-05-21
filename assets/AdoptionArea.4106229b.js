@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,b as s}from"./index.f2fa94c3.js";const a={},n=s("h1",null,"AdoptionArea",-1),r=[n];function c(_,d,p,i,l,f){return o(),t("div",null,r)}var h=e(a,[["render",c]]);export{h as default};

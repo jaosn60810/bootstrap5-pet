@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,b as t}from"./index.f2fa94c3.js";const n={},r=t("h1",null,"DesignWork",-1),c=[r];function a(_,i,d,l,p,f){return o(),s("div",null,c)}var h=e(n,[["render",a]]);export{h as default};
