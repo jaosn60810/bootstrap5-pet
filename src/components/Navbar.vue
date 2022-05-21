@@ -1,5 +1,7 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 py-lg-4">
+  <nav
+    class="navbar navbar-expand-lg navbar-light bg-white py-3 py-lg-4 border-bottom border-primary border-3 border-lg-0"
+  >
     <div class="container">
       <a class="navbar-brand" href="#">
         <img src="../assets/img/logo.png" height="40" alt="撿到寶" />
