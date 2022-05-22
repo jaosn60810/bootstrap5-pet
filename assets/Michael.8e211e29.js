@@ -1,0 +1,1 @@
+var s="./assets/title01.7f245cbf.png",a="./assets/dog05.2f187ca5.png",t="./assets/dog07.68f22ffd.png",p="./assets/dog06.be134484.png",r="./assets/Michael.1cdd712d.png";export{s as _,a,t as b,p as c,r as d};
