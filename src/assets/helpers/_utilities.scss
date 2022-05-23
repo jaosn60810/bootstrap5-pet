@@ -628,6 +628,21 @@ $utilities: map-merge(
         visible: visible,
         invisible: hidden,
       )
+    ),
+    "object-fit": (
+      property: object-fit,
+      class: object-fit,
+      values: (
+        cover: cover,
+      )
+    ),
+    "object-position": (
+      property: object-position,
+      class: object-position,
+      values: (
+        center: center,
+        top: top,
+      )
     )
     // scss-docs-end utils-visibility
   ),
